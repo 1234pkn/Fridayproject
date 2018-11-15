@@ -1,6 +1,14 @@
-Public Class StringReverse{
-Stringreverse()
-{
 
-}
-}
+Public Class StringReverse{
+StringReverse()
+{
+  rev= " "
+  reverse=rev + RecursivestringReverse()
+  }
+  public void RecursivestringReverse()
+  }
+ public void RecursivestringReverse()
+  {
+ 
+  }
+} 
